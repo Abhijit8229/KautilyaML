@@ -1,0 +1,5537 @@
+{
+  "narrative_summary": "Warfare measured in secs now, be ready with futuristic roadmap: Rajnath Singh \u2014 reported by Unknown source. Salesforce CEO Marc Benioff says: I keep asking CEOs, what AI are they using for these big layoffs, and I think... \u2014 reported by Unknown source. AI in focus: Centre proposes changes in IT Rules to curb deepfakes; public feedback open till November 6 \u2014 reported by Unknown source. Air India plane crash: AI-generated fake reports, videos spreading misinformation; fraudsters exploiting vulnerability \u2014 reported by Unknown source. Army used AI in a 'big way' during Operation Sindoor \u2014 reported by Unknown source. Glaring safety lapses at industrial park in Hyderabad where factory blast killed over 35 \u2014 reported by Unknown source. Goldman Sachs hires a new employee that could be a 'nightmare' for engineering graduates \u2014 reported by Unknown source. The AI technology that has divided Silicon Valley is biggest reason behind the rift between OpenAI and Microsoft \u2014 reported by Unknown source.",
+  "timeline": [
+    {
+      "date": "2025-06-25T17:00:00",
+      "headline": "Next-generation digital highway: Delhi's Dwarka Expressway gets India\u2019s first AI-powered smart traffic system; check top features",
+      "url": "https://timesofindia.indiatimes.com/business/infrastructure/next-generation-digital-highway-delhis-dwarka-expressway-gets-indias-first-ai-powered-smart-traffic-system-check-top-features/articleshow/122067359.cms",
+      "why_it_matters": "India has inaugurated its first Advanced Traffic Management System (ATMS) on the Dwarka Expressway in Delhi, in line with the National Highways Authority of India's (NHAI) 2023 guidelines. This AI-pow"
+    },
+    {
+      "date": "2025-06-25T17:43:00Z",
+      "headline": "We crashed AI 171: Chennai techie creates hundreds of fake emails, uses 80 phone numbers across 11 states to trap colleague",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/we-crashed-ai-171-chennai-techie-creates-hundreds-of-fake-emails-uses-80-phone-numbers-across-11-states-to-trap-colleague/articleshow/122070166.cms",
+      "why_it_matters": "A 30-year-old robotics engineer named Rene Joshlida from Chennai has been arrested for sending hoax bomb threats across 11 states in India. The threats were part of an elaborate scheme to frame a form"
+    },
+    {
+      "date": "2025-06-26T19:09:00Z",
+      "headline": "Nvidia CEO Jensen Huang now eyes this tech sector after AI: \u2018We\u2019re working towards a day where\u2026\u2019",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-now-eyes-this-tech-sector-after-ai-were-working-towards-a-day-where/articleshow/122093878.cms",
+      "why_it_matters": "Nvidia is focusing on robotics after artificial intelligence. CEO Jensen Huang believes robotics, especially self-driving cars, present a huge market. Nvidia's Drive platform is already used by Merced"
+    },
+    {
+      "date": "2025-06-26T19:41:00Z",
+      "headline": "The AI technology that has divided Silicon Valley is biggest reason behind the rift between OpenAI and Microsoft",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/the-ai-technology-that-has-divided-silicon-valley-is-biggest-reason-behind-the-rift-between-openai-and-microsoft/articleshow/122094351.cms",
+      "why_it_matters": "OpenAI and Microsoft's partnership is undergoing renegotiation, focusing on the definition of Artificial General Intelligence (AGI). A significant contract clause allows OpenAI to control its technolo"
+    },
+    {
+      "date": "2025-06-29T04:24:00Z",
+      "headline": "AAIB DG leading crash probe gets X security cover",
+      "url": "https://timesofindia.indiatimes.com/india/aaib-dg-leading-crash-probe-gets-x-security-cover/articleshow/122136299.cms",
+      "why_it_matters": "The government has provided X category security cover to the Director General of the Aircraft Accident Investigation Bureau, GVG Yugandhar, who is leading the investigation into the crash of AI-171. F"
+    },
+    {
+      "date": "2025-07-01T01:29:00Z",
+      "headline": "38 hours after AI 171 crash: AI Boeing 777 got 'stall, ground proximity & don\u2019t sink warning\u2019 on take off from Delhi",
+      "url": "https://timesofindia.indiatimes.com/india/38-hours-after-ai-171-crash-ai-boeing-777-got-stall-ground-proximity-dont-sink-warning-on-take-off-from-delhi/articleshow/122168144.cms",
+      "why_it_matters": "Shortly after takeoff from Delhi on June 14, an Air India Boeing 777 bound for Vienna experienced a stall warning and ground proximity warning, leading to a significant altitude loss. Pilots successfu"
+    },
+    {
+      "date": "2025-07-01T01:58:00Z",
+      "headline": "As Apple's AI struggles continue, it again looks at these technology companies including one backed by Amazon",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-apples-ai-struggles-continue-it-again-looks-at-these-technology-companies-including-one-backed-by-amazon/articleshow/122168275.cms",
+      "why_it_matters": "Apple Inc is contemplating a major shift in its artificial intelligence strategy by exploring partnerships with Anthropic or OpenAI to enhance Siri, potentially moving away from reliance on in-house A"
+    },
+    {
+      "date": "2025-07-02T00:05:00Z",
+      "headline": "Hyderabad factory where blast claimed dozens of lives operated without an NOC",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-factory-where-blast-claimed-dozens-of-lives-operated-without-an-noc/articleshow/122189978.cms",
+      "why_it_matters": "A factory in Hyderabad operated by Sigachi Industries Pvt. Ltd has been found to be non-compliant with several safety regulations, which may have contributed to a deadly explosion that claimed many li"
+    },
+    {
+      "date": "2025-07-02T16:25:00Z",
+      "headline": "Air India plane crash: AI-generated fake reports, videos spreading misinformation; fraudsters exploiting vulnerability",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/air-india-plane-crash-ai-generated-fake-reports-videos-spreading-misinformation-fraudsters-exploiting-vulnerability/articleshow/122202668.cms",
+      "why_it_matters": "Following the crash of Air India Flight 171 in Ahmedabad, artificial intelligence-generated misinformation, including fake reports and visuals, spread rapidly, exacerbating confusion due to delayed of"
+    },
+    {
+      "date": "2025-07-03T08:52:00Z",
+      "headline": "Telangana to curb industrial mishaps: Smart tech in focus; AI tools, safety rules to be enforced",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/telangana-to-curb-industrial-mishaps-smart-tech-in-focus-ai-tools-safety-rules-to-be-enforced/articleshow/122217518.cms",
+      "why_it_matters": "Following a rise in industrial accidents, particularly in hazardous sectors, the Telangana government is promoting the adoption of modern safety technologies. Mandatory upgrades, including risk-based "
+    },
+    {
+      "date": "2025-07-03T11:28:00Z",
+      "headline": "From coders to copilots: How Microsoft's 9,000 layoffs reflect the AI-driven evolution of tech work",
+      "url": "https://timesofindia.indiatimes.com/education/news/microsoft-confirms-9000-layoffs-in-strategic-pivot-to-artificial-intelligence/articleshow/122219264.cms",
+      "why_it_matters": "Microsoft has confirmed it will lay off up to 9,000 employees, which accounts for about 4% of its global workforce of 228,000. This decision will impact several divisions, including Xbox. The company "
+    },
+    {
+      "date": "2025-07-03T23:58:00",
+      "headline": "Glaring safety lapses at industrial park in Hyderabad where factory blast killed over 35",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/glaring-safety-lapses-at-industrial-park-in-hyderabad-where-factory-blast-killed-over-35/articleshow/122234542.cms",
+      "why_it_matters": "Glaring safety lapses have come to light at the TSIIC Industrial Park in Pashamylaram, where the Sigachi factory is located. An explosion at the factory left over 35 workers dead and several others in"
+    },
+    {
+      "date": "2025-07-08T11:48:00Z",
+      "headline": "Safety Violations at Sigachi Industries Exposed: Lack of Fire Systems and Emergency Preparedness Ignored Before Deadly Explosion",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/safety-violations-at-sigachi-industries-exposed-lack-of-fire-systems-and-emergency-preparedness-ignored-before-deadly-explosion/articleshow/122308801.cms",
+      "why_it_matters": "A pre-disaster inspection at Sigachi Industries, months before the fatal explosion, revealed critical safety lapses, including absent fire safety mechanisms and inadequate worker protection. Despite t"
+    },
+    {
+      "date": "2025-07-09T23:22:00Z",
+      "headline": "CCTVs at all railway level crossings to prevent mishaps",
+      "url": "https://timesofindia.indiatimes.com/india/cctvs-at-all-railway-level-crossings-to-prevent-mishaps/articleshow/122348549.cms",
+      "why_it_matters": "Railway Minister Ashwini Vaishnaw has directed all zones to implement a CCTV system with the necessary recording facilities at all railway level crossings across the country. This decision comes in th"
+    },
+    {
+      "date": "2025-07-10T15:40:00+05:30",
+      "headline": "Google AI mode rolled out: Top features for students to learn faster, smarter",
+      "url": "https://timesofindia.indiatimes.com/education/news/google-ai-mode-rolled-out-top-features-for-students-to-learn-faster-smarter/articleshow/122363983.cms",
+      "why_it_matters": "Google has officially launched its AI Mode, designed to revolutionize how users search and learn information online. This new feature is built on the Gemini 2.5 system and is now available to English-"
+    },
+    {
+      "date": "2025-07-13T04:11:00Z",
+      "headline": "Ahmedabad plane crash: AI171 prelim report reveals 'fuel to engines cut off in 3 seconds'",
+      "url": "https://timesofindia.indiatimes.com/india/ahmedabad-plane-crash-ai171-prelim-report-reveals-fuel-to-engines-cut-off-in-3-seconds/articleshow/122411728.cms",
+      "why_it_matters": "A preliminary report on the Air India AI171 crash reveals a potential fuel supply cutoff to both engines shortly after takeoff. The investigation highlights conflicting pilot statements and a possible"
+    },
+    {
+      "date": "2025-07-13T09:53:00Z",
+      "headline": "Goldman Sachs hires a new employee that could be a 'nightmare' for engineering graduates",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/goldman-sachs-hires-a-new-employee-that-could-be-a-nightmare-for-engineering-graduates/articleshow/122414587.cms",
+      "why_it_matters": "Goldman Sachs is revolutionizing its software development by integrating an AI software engineer named Devin. This AI aims to enhance productivity and automate routine tasks, signaling a significant s"
+    },
+    {
+      "date": "2025-07-15T11:51:00Z",
+      "headline": "Now, International Federation of Pilots also says AI 171 report 'raises questions, provides no answers'",
+      "url": "https://timesofindia.indiatimes.com/india/now-international-federation-of-pilots-also-says-ai-171-report-raises-questions-provides-no-answers/articleshow/122489273.cms",
+      "why_it_matters": "Following the preliminary report on the Air India AI 171 crash in Ahmedabad, the International Federation of Air Line Pilots\u2019 Associations (IFALPA) cautioned against \"hasty conclusions,\" echoing conce"
+    },
+    {
+      "date": "2025-07-18T15:35:00Z",
+      "headline": "Show us you can use: Amazon sets new requirement for employee promotions in these departments",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/show-us-you-can-use-amazon-sets-new-requirement-for-employee-promotions-in-these-departments/articleshow/122763159.cms",
+      "why_it_matters": "Amazon employees at Ring, Blink security cameras, Key in-home delivery service, and Sidewalk wireless network must demonstrate artificial intelligence usage to secure promotions. This new mandate was "
+    },
+    {
+      "date": "2025-07-23T03:04:00Z",
+      "headline": "Fuel switch checks clear Boeing 787s, 737s in AI fleet",
+      "url": "https://timesofindia.indiatimes.com/india/fuel-switch-checks-clear-boeing-787s-737s-in-ai-fleet/articleshow/122845148.cms",
+      "why_it_matters": "Air India announced on Tuesday that it has completed inspections and found no faults in the fuel control switch (FCS) locking mechanism on all its Boeing 787 Dreamliners and AI Express Boeing 737s. Th"
+    },
+    {
+      "date": "2025-07-24T15:06:00Z",
+      "headline": "Crime Index 2025: Which are the safest Indian cities? Check full list",
+      "url": "https://timesofindia.indiatimes.com/india/crime-index-2025-which-are-the-safest-indian-cities-check-full-list/articleshow/122878695.cms",
+      "why_it_matters": "Ahmedabad has emerged as the safest city in India in 2025, according to the latest Numbeo Crime Index, a global database. It has a Safety Index score of 68.6 and ranks 77th globally out of 279 cities,"
+    },
+    {
+      "date": "2025-07-26T23:31:00Z",
+      "headline": "Bhatti calls for integration of artificial intelligence in governance",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/bhatti-calls-for-integration-of-artificial-intelligence-in-governance/articleshow/122926394.cms",
+      "why_it_matters": "Hyderabad: Deputy Chief Minister Bhatti Vikramarka on Saturday emphasized the need for the Marri Chenna Reddy Human Resource Development Institute (MCRHRDI) to provide training to principal secretarie"
+    },
+    {
+      "date": "2025-07-27T03:29:00Z",
+      "headline": "Government tells Air India to 'end backseat driving' in key departments",
+      "url": "https://timesofindia.indiatimes.com/india/government-tells-air-india-to-end-backseat-driving-in-key-departments/articleshow/122928239.cms",
+      "why_it_matters": "Following safety concerns and a recent incident, the aviation ministry has urged Air India to eliminate \"backseat driving\" in critical departments. The ministry emphasized that designated post-holders"
+    },
+    {
+      "date": "2025-07-27T05:24:00Z",
+      "headline": "Shah: India's rising stature to invite new security challenges",
+      "url": "https://timesofindia.indiatimes.com/india/shah-indias-rising-stature-to-invite-new-security-challenges/articleshow/122929414.cms",
+      "why_it_matters": "Home Minister Amit Shah announced that the Modi government has shown strong political will and reinforced its zero-tolerance policy against terrorism through Operation Sindoor. Speaking at the Nationa"
+    },
+    {
+      "date": "2025-07-28T11:27:00Z",
+      "headline": "Nvidia CEO Jensen Huang predicts: AI will create more millionaires in five years - The Times of India",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-predicts-ai-will-create-more-millionaires-in-five-years/articleshow/122946593.cms",
+      "why_it_matters": "Nvidia CEO Jensen Huang recently described AI as the \"greatest technology equaliser of all time\" during an appearance on the All-In podcast hosted by American venture capitalist Chamath Palihapitiya. "
+    },
+    {
+      "date": "2025-07-30T14:27:00Z",
+      "headline": "Who is Mira Murati? Former OpenAI CTO who rejected Mark Zuckerberg's $1 billion offer to join Meta AI",
+      "url": "https://timesofindia.indiatimes.com/world/us/who-is-mira-murati-former-openai-cto-who-rejected-mark-zuckerbergs-1-billion-offer-to-join-meta-ai/articleshow/122994020.cms",
+      "why_it_matters": "Mira Murati, the former CTO of OpenAI, rejected a $1 billion offer from Meta CEO Mark Zuckerberg to join Meta AI. As the founder of the AI startup Thinking Machines Lab, Murati and her team decided to"
+    },
+    {
+      "date": "2025-07-31T12:40:00Z",
+      "headline": "Salesforce CEO Marc Benioff says: I keep asking CEOs, what AI are they using for these big layoffs, and I think...",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-says-i-keep-asking-ceos-what-ai-are-they-using-for-these-big-layoffs-and-i-think-/articleshow/123014079.cms",
+      "why_it_matters": "Salesforce CEO Marc Benioff disputes the prediction of AI-driven job losses, stating that AI primarily enhances human capabilities despite Salesforce's own automation initiatives. He highlights that A"
+    },
+    {
+      "date": "Sep 30, 2025, 01:55 IST",
+      "headline": "Warfare measured in secs now, be ready with futuristic roadmap: Rajnath Singh",
+      "url": "https://timesofindia.indiatimes.com/india/warfare-measured-in-secs-now-be-ready-with-futuristic-roadmap-rajnath-singh/articleshow/124220466.cms",
+      "why_it_matters": "NEW DELHI: Stressing that warfare is now measured in hours and seconds, with satellites, drones and sensors redefining the nature of conflict, defence minister Rajnath Singh on Monday directed the Coa"
+    },
+    {
+      "date": "Oct 06, 2025, 22:47 IST",
+      "headline": "Army used AI in a 'big way' during Operation Sindoor",
+      "url": "https://timesofindia.indiatimes.com/india/army-used-ai-in-a-big-way-during-operation-sindoor/articleshow/124345398.cms",
+      "why_it_matters": "NEW DELHI: The Army used artificial intelligence (AI) tools in a big way during Operation Sindoor against Pakistan to generate a common operational picture, intelligence analysis, threat assessment, a"
+    },
+    {
+      "date": "Oct 22, 2025, 17:03 IST",
+      "headline": "AI in focus: Centre proposes changes in IT Rules to curb deepfakes; public feedback open till November 6",
+      "url": "https://timesofindia.indiatimes.com/india/ai-in-focus-meity-proposes-it-rules-changes-to-curb-deepfakes-public-feedback-open-till-november-6/articleshow/124739220.cms",
+      "why_it_matters": "India's IT ministry is proposing new rules to combat AI-generated deepfakes and synthetic content. Social media giants with over 50 lakh users must identify and label artificial content, ensuring user"
+    }
+  ],
+  "clusters": {
+    "0": [
+      {
+        "title": "Salesforce CEO Marc Benioff says: I keep asking CEOs, what AI are they using for these big layoffs, and I think...",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/salesforce-ceo-marc-benioff-says-i-keep-asking-ceos-what-ai-are-they-using-for-these-big-layoffs-and-i-think-/articleshow/123014079.cms"
+      },
+      {
+        "title": "Goldman Sachs hires a new employee that could be a 'nightmare' for engineering graduates",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/goldman-sachs-hires-a-new-employee-that-could-be-a-nightmare-for-engineering-graduates/articleshow/122414587.cms"
+      },
+      {
+        "title": "The AI technology that has divided Silicon Valley is biggest reason behind the rift between OpenAI and Microsoft",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/the-ai-technology-that-has-divided-silicon-valley-is-biggest-reason-behind-the-rift-between-openai-and-microsoft/articleshow/122094351.cms"
+      },
+      {
+        "title": "As Apple's AI struggles continue, it again looks at these technology companies including one backed by Amazon",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-apples-ai-struggles-continue-it-again-looks-at-these-technology-companies-including-one-backed-by-amazon/articleshow/122168275.cms"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang predicts: AI will create more millionaires in five years - The Times of India",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-predicts-ai-will-create-more-millionaires-in-five-years/articleshow/122946593.cms"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang now eyes this tech sector after AI: \u2018We\u2019re working towards a day where\u2026\u2019",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-now-eyes-this-tech-sector-after-ai-were-working-towards-a-day-where/articleshow/122093878.cms"
+      },
+      {
+        "title": "Who is Mira Murati? Former OpenAI CTO who rejected Mark Zuckerberg's $1 billion offer to join Meta AI",
+        "url": "https://timesofindia.indiatimes.com/world/us/who-is-mira-murati-former-openai-cto-who-rejected-mark-zuckerbergs-1-billion-offer-to-join-meta-ai/articleshow/122994020.cms"
+      },
+      {
+        "title": "From coders to copilots: How Microsoft's 9,000 layoffs reflect the AI-driven evolution of tech work",
+        "url": "https://timesofindia.indiatimes.com/education/news/microsoft-confirms-9000-layoffs-in-strategic-pivot-to-artificial-intelligence/articleshow/122219264.cms"
+      },
+      {
+        "title": "Google AI mode rolled out: Top features for students to learn faster, smarter",
+        "url": "https://timesofindia.indiatimes.com/education/news/google-ai-mode-rolled-out-top-features-for-students-to-learn-faster-smarter/articleshow/122363983.cms"
+      }
+    ],
+    "1": [
+      {
+        "title": "38 hours after AI 171 crash: AI Boeing 777 got 'stall, ground proximity & don\u2019t sink warning\u2019 on take off from Delhi",
+        "url": "https://timesofindia.indiatimes.com/india/38-hours-after-ai-171-crash-ai-boeing-777-got-stall-ground-proximity-dont-sink-warning-on-take-off-from-delhi/articleshow/122168144.cms"
+      },
+      {
+        "title": "Now, International Federation of Pilots also says AI 171 report 'raises questions, provides no answers'",
+        "url": "https://timesofindia.indiatimes.com/india/now-international-federation-of-pilots-also-says-ai-171-report-raises-questions-provides-no-answers/articleshow/122489273.cms"
+      },
+      {
+        "title": "We crashed AI 171: Chennai techie creates hundreds of fake emails, uses 80 phone numbers across 11 states to trap colleague",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/we-crashed-ai-171-chennai-techie-creates-hundreds-of-fake-emails-uses-80-phone-numbers-across-11-states-to-trap-colleague/articleshow/122070166.cms"
+      },
+      {
+        "title": "Ahmedabad plane crash: AI171 prelim report reveals 'fuel to engines cut off in 3 seconds'",
+        "url": "https://timesofindia.indiatimes.com/india/ahmedabad-plane-crash-ai171-prelim-report-reveals-fuel-to-engines-cut-off-in-3-seconds/articleshow/122411728.cms"
+      },
+      {
+        "title": "AAIB DG leading crash probe gets X security cover",
+        "url": "https://timesofindia.indiatimes.com/india/aaib-dg-leading-crash-probe-gets-x-security-cover/articleshow/122136299.cms"
+      },
+      {
+        "title": "Fuel switch checks clear Boeing 787s, 737s in AI fleet",
+        "url": "https://timesofindia.indiatimes.com/india/fuel-switch-checks-clear-boeing-787s-737s-in-ai-fleet/articleshow/122845148.cms"
+      }
+    ],
+    "2": [
+      {
+        "title": "Glaring safety lapses at industrial park in Hyderabad where factory blast killed over 35",
+        "url": "https://timesofindia.indiatimes.com/city/hyderabad/glaring-safety-lapses-at-industrial-park-in-hyderabad-where-factory-blast-killed-over-35/articleshow/122234542.cms"
+      },
+      {
+        "title": "Safety Violations at Sigachi Industries Exposed: Lack of Fire Systems and Emergency Preparedness Ignored Before Deadly Explosion",
+        "url": "https://timesofindia.indiatimes.com/city/hyderabad/safety-violations-at-sigachi-industries-exposed-lack-of-fire-systems-and-emergency-preparedness-ignored-before-deadly-explosion/articleshow/122308801.cms"
+      },
+      {
+        "title": "Hyderabad factory where blast claimed dozens of lives operated without an NOC",
+        "url": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-factory-where-blast-claimed-dozens-of-lives-operated-without-an-noc/articleshow/122189978.cms"
+      }
+    ],
+    "3": [
+      {
+        "title": "Warfare measured in secs now, be ready with futuristic roadmap: Rajnath Singh",
+        "url": "https://timesofindia.indiatimes.com/india/warfare-measured-in-secs-now-be-ready-with-futuristic-roadmap-rajnath-singh/articleshow/124220466.cms"
+      },
+      {
+        "title": "AI in focus: Centre proposes changes in IT Rules to curb deepfakes; public feedback open till November 6",
+        "url": "https://timesofindia.indiatimes.com/india/ai-in-focus-meity-proposes-it-rules-changes-to-curb-deepfakes-public-feedback-open-till-november-6/articleshow/124739220.cms"
+      },
+      {
+        "title": "Air India plane crash: AI-generated fake reports, videos spreading misinformation; fraudsters exploiting vulnerability",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/air-india-plane-crash-ai-generated-fake-reports-videos-spreading-misinformation-fraudsters-exploiting-vulnerability/articleshow/122202668.cms"
+      },
+      {
+        "title": "Army used AI in a 'big way' during Operation Sindoor",
+        "url": "https://timesofindia.indiatimes.com/india/army-used-ai-in-a-big-way-during-operation-sindoor/articleshow/124345398.cms"
+      },
+      {
+        "title": "Next-generation digital highway: Delhi's Dwarka Expressway gets India\u2019s first AI-powered smart traffic system; check top features",
+        "url": "https://timesofindia.indiatimes.com/business/infrastructure/next-generation-digital-highway-delhis-dwarka-expressway-gets-indias-first-ai-powered-smart-traffic-system-check-top-features/articleshow/122067359.cms"
+      },
+      {
+        "title": "Show us you can use: Amazon sets new requirement for employee promotions in these departments",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/show-us-you-can-use-amazon-sets-new-requirement-for-employee-promotions-in-these-departments/articleshow/122763159.cms"
+      },
+      {
+        "title": "Crime Index 2025: Which are the safest Indian cities? Check full list",
+        "url": "https://timesofindia.indiatimes.com/india/crime-index-2025-which-are-the-safest-indian-cities-check-full-list/articleshow/122878695.cms"
+      },
+      {
+        "title": "Telangana to curb industrial mishaps: Smart tech in focus; AI tools, safety rules to be enforced",
+        "url": "https://timesofindia.indiatimes.com/city/hyderabad/telangana-to-curb-industrial-mishaps-smart-tech-in-focus-ai-tools-safety-rules-to-be-enforced/articleshow/122217518.cms"
+      },
+      {
+        "title": "Shah: India's rising stature to invite new security challenges",
+        "url": "https://timesofindia.indiatimes.com/india/shah-indias-rising-stature-to-invite-new-security-challenges/articleshow/122929414.cms"
+      },
+      {
+        "title": "CCTVs at all railway level crossings to prevent mishaps",
+        "url": "https://timesofindia.indiatimes.com/india/cctvs-at-all-railway-level-crossings-to-prevent-mishaps/articleshow/122348549.cms"
+      },
+      {
+        "title": "Bhatti calls for integration of artificial intelligence in governance",
+        "url": "https://timesofindia.indiatimes.com/city/hyderabad/bhatti-calls-for-integration-of-artificial-intelligence-in-governance/articleshow/122926394.cms"
+      },
+      {
+        "title": "Government tells Air India to 'end backseat driving' in key departments",
+        "url": "https://timesofindia.indiatimes.com/india/government-tells-air-india-to-end-backseat-driving-in-key-departments/articleshow/122928239.cms"
+      }
+    ]
+  },
+  "graph": [
+    {
+      "from": 0,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.16936558485031128
+    },
+    {
+      "from": 0,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.27015453577041626
+    },
+    {
+      "from": 0,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.21810199320316315
+    },
+    {
+      "from": 0,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.31844818592071533
+    },
+    {
+      "from": 0,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.2867509126663208
+    },
+    {
+      "from": 0,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.1953204870223999
+    },
+    {
+      "from": 0,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.21579259634017944
+    },
+    {
+      "from": 0,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.3666155934333801
+    },
+    {
+      "from": 0,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.2289460152387619
+    },
+    {
+      "from": 0,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.1551133245229721
+    },
+    {
+      "from": 0,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.041398704051971436
+    },
+    {
+      "from": 0,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.22418588399887085
+    },
+    {
+      "from": 0,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.2429656833410263
+    },
+    {
+      "from": 0,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.1832800656557083
+    },
+    {
+      "from": 0,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.25070449709892273
+    },
+    {
+      "from": 0,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.24158421158790588
+    },
+    {
+      "from": 0,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.23242567479610443
+    },
+    {
+      "from": 0,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.19849583506584167
+    },
+    {
+      "from": 0,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.3030562996864319
+    },
+    {
+      "from": 0,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.21460434794425964
+    },
+    {
+      "from": 0,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.1956690549850464
+    },
+    {
+      "from": 0,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.42279574275016785
+    },
+    {
+      "from": 0,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.1804695725440979
+    },
+    {
+      "from": 0,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.2107551097869873
+    },
+    {
+      "from": 0,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.09305577725172043
+    },
+    {
+      "from": 0,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.17915752530097961
+    },
+    {
+      "from": 0,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.07361321151256561
+    },
+    {
+      "from": 0,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.27737417817115784
+    },
+    {
+      "from": 0,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.2485845535993576
+    },
+    {
+      "from": 1,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.16936558485031128
+    },
+    {
+      "from": 1,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.38743919134140015
+    },
+    {
+      "from": 1,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.26211416721343994
+    },
+    {
+      "from": 1,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.27852973341941833
+    },
+    {
+      "from": 1,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.10958105325698853
+    },
+    {
+      "from": 1,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.2840634882450104
+    },
+    {
+      "from": 1,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.3910946249961853
+    },
+    {
+      "from": 1,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.24251039326190948
+    },
+    {
+      "from": 1,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.236190527677536
+    },
+    {
+      "from": 1,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.4461296498775482
+    },
+    {
+      "from": 1,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.302213579416275
+    },
+    {
+      "from": 1,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.43794652819633484
+    },
+    {
+      "from": 1,
+      "to": 13,
+      "relation": "adds_context",
+      "score": 0.48826977610588074
+    },
+    {
+      "from": 1,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.33399519324302673
+    },
+    {
+      "from": 1,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.08552027493715286
+    },
+    {
+      "from": 1,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.04195506125688553
+    },
+    {
+      "from": 1,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.2610938251018524
+    },
+    {
+      "from": 1,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.224699005484581
+    },
+    {
+      "from": 1,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.290968120098114
+    },
+    {
+      "from": 1,
+      "to": 20,
+      "relation": "adds_context",
+      "score": 0.5939129590988159
+    },
+    {
+      "from": 1,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.29237568378448486
+    },
+    {
+      "from": 1,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.1369255781173706
+    },
+    {
+      "from": 1,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.1268996149301529
+    },
+    {
+      "from": 1,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.14335982501506805
+    },
+    {
+      "from": 1,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.0769658163189888
+    },
+    {
+      "from": 1,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.10089307278394699
+    },
+    {
+      "from": 1,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.2012311965227127
+    },
+    {
+      "from": 1,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.411841481924057
+    },
+    {
+      "from": 1,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.10407309234142303
+    },
+    {
+      "from": 2,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.27015453577041626
+    },
+    {
+      "from": 2,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.38743919134140015
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.34868595004081726
+    },
+    {
+      "from": 2,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.3707459270954132
+    },
+    {
+      "from": 2,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.17147700488567352
+    },
+    {
+      "from": 2,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.0032823020592331886
+    },
+    {
+      "from": 2,
+      "to": 7,
+      "relation": "adds_context",
+      "score": 0.47813692688941956
+    },
+    {
+      "from": 2,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.35131552815437317
+    },
+    {
+      "from": 2,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.3364652395248413
+    },
+    {
+      "from": 2,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.3521639406681061
+    },
+    {
+      "from": 2,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.17359386384487152
+    },
+    {
+      "from": 2,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.33942171931266785
+    },
+    {
+      "from": 2,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.39967218041419983
+    },
+    {
+      "from": 2,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.27130571007728577
+    },
+    {
+      "from": 2,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.17563411593437195
+    },
+    {
+      "from": 2,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.107924684882164
+    },
+    {
+      "from": 2,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.3951217830181122
+    },
+    {
+      "from": 2,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.29099130630493164
+    },
+    {
+      "from": 2,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.4148431718349457
+    },
+    {
+      "from": 2,
+      "to": 20,
+      "relation": "adds_context",
+      "score": 0.48474952578544617
+    },
+    {
+      "from": 2,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.4285368025302887
+    },
+    {
+      "from": 2,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.20393244922161102
+    },
+    {
+      "from": 2,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.07723567634820938
+    },
+    {
+      "from": 2,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.17714861035346985
+    },
+    {
+      "from": 2,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.0748884528875351
+    },
+    {
+      "from": 2,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.08623897284269333
+    },
+    {
+      "from": 2,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.255964070558548
+    },
+    {
+      "from": 2,
+      "to": 28,
+      "relation": "adds_context",
+      "score": 0.5014628171920776
+    },
+    {
+      "from": 2,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.24422655999660492
+    },
+    {
+      "from": 3,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.21810199320316315
+    },
+    {
+      "from": 3,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.26211416721343994
+    },
+    {
+      "from": 3,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.34868595004081726
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.3613898456096649
+    },
+    {
+      "from": 3,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.40879005193710327
+    },
+    {
+      "from": 3,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.11589974164962769
+    },
+    {
+      "from": 3,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.23672255873680115
+    },
+    {
+      "from": 3,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.30169618129730225
+    },
+    {
+      "from": 3,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.4287905991077423
+    },
+    {
+      "from": 3,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.28406453132629395
+    },
+    {
+      "from": 3,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.11194965988397598
+    },
+    {
+      "from": 3,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.2960500717163086
+    },
+    {
+      "from": 3,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.2141943871974945
+    },
+    {
+      "from": 3,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.2593912184238434
+    },
+    {
+      "from": 3,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.2886381447315216
+    },
+    {
+      "from": 3,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.23483730852603912
+    },
+    {
+      "from": 3,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.38974180817604065
+    },
+    {
+      "from": 3,
+      "to": 18,
+      "relation": "adds_context",
+      "score": 0.5154985785484314
+    },
+    {
+      "from": 3,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.44451242685317993
+    },
+    {
+      "from": 3,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.3053739666938782
+    },
+    {
+      "from": 3,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.1862381398677826
+    },
+    {
+      "from": 3,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.29736000299453735
+    },
+    {
+      "from": 3,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.3129591941833496
+    },
+    {
+      "from": 3,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.42711904644966125
+    },
+    {
+      "from": 3,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.2195344716310501
+    },
+    {
+      "from": 3,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.3008759021759033
+    },
+    {
+      "from": 3,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.2607753872871399
+    },
+    {
+      "from": 3,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.3215858042240143
+    },
+    {
+      "from": 3,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.40979084372520447
+    },
+    {
+      "from": 4,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.31844818592071533
+    },
+    {
+      "from": 4,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.27852973341941833
+    },
+    {
+      "from": 4,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.3707459270954132
+    },
+    {
+      "from": 4,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.3613898456096649
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.2833405137062073
+    },
+    {
+      "from": 4,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.07109756767749786
+    },
+    {
+      "from": 4,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.35063815116882324
+    },
+    {
+      "from": 4,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.3026113510131836
+    },
+    {
+      "from": 4,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.28338730335235596
+    },
+    {
+      "from": 4,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.23003380000591278
+    },
+    {
+      "from": 4,
+      "to": 11,
+      "relation": "contradicts",
+      "score": -0.0011118734255433083
+    },
+    {
+      "from": 4,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.15895378589630127
+    },
+    {
+      "from": 4,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.2312563955783844
+    },
+    {
+      "from": 4,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.18899264931678772
+    },
+    {
+      "from": 4,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.016045590862631798
+    },
+    {
+      "from": 4,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.22045060992240906
+    },
+    {
+      "from": 4,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.26454445719718933
+    },
+    {
+      "from": 4,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.2633528709411621
+    },
+    {
+      "from": 4,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.28772038221359253
+    },
+    {
+      "from": 4,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.3355831503868103
+    },
+    {
+      "from": 4,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.30924192070961
+    },
+    {
+      "from": 4,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.16510020196437836
+    },
+    {
+      "from": 4,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.2165410816669464
+    },
+    {
+      "from": 4,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.14844411611557007
+    },
+    {
+      "from": 4,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.08163200318813324
+    },
+    {
+      "from": 4,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.2546161413192749
+    },
+    {
+      "from": 4,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.2633163034915924
+    },
+    {
+      "from": 4,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.33066311478614807
+    },
+    {
+      "from": 4,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.21919116377830505
+    },
+    {
+      "from": 5,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.2867509126663208
+    },
+    {
+      "from": 5,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.10958105325698853
+    },
+    {
+      "from": 5,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.17147700488567352
+    },
+    {
+      "from": 5,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.40879005193710327
+    },
+    {
+      "from": 5,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.2833405137062073
+    },
+    {
+      "from": 5,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.09736724197864532
+    },
+    {
+      "from": 5,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.0873100757598877
+    },
+    {
+      "from": 5,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.1968449056148529
+    },
+    {
+      "from": 5,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.38741612434387207
+    },
+    {
+      "from": 5,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.12591396272182465
+    },
+    {
+      "from": 5,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.11391933262348175
+    },
+    {
+      "from": 5,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.05636089667677879
+    },
+    {
+      "from": 5,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.08158751577138901
+    },
+    {
+      "from": 5,
+      "to": 14,
+      "relation": "contradicts",
+      "score": -0.006710318382829428
+    },
+    {
+      "from": 5,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.39265176653862
+    },
+    {
+      "from": 5,
+      "to": 16,
+      "relation": "adds_context",
+      "score": 0.5469669103622437
+    },
+    {
+      "from": 5,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.16411349177360535
+    },
+    {
+      "from": 5,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.32891660928726196
+    },
+    {
+      "from": 5,
+      "to": 19,
+      "relation": "adds_context",
+      "score": 0.5936668515205383
+    },
+    {
+      "from": 5,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.14663589000701904
+    },
+    {
+      "from": 5,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.007170582190155983
+    },
+    {
+      "from": 5,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.3636261820793152
+    },
+    {
+      "from": 5,
+      "to": 23,
+      "relation": "builds_on",
+      "score": 0.6838598251342773
+    },
+    {
+      "from": 5,
+      "to": 24,
+      "relation": "adds_context",
+      "score": 0.45239365100860596
+    },
+    {
+      "from": 5,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.21007390320301056
+    },
+    {
+      "from": 5,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.25425225496292114
+    },
+    {
+      "from": 5,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.1288577765226364
+    },
+    {
+      "from": 5,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.102366603910923
+    },
+    {
+      "from": 5,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.21401746571063995
+    },
+    {
+      "from": 6,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.1953204870223999
+    },
+    {
+      "from": 6,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.2840634882450104
+    },
+    {
+      "from": 6,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.0032823020592331886
+    },
+    {
+      "from": 6,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.11589974164962769
+    },
+    {
+      "from": 6,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.07109756767749786
+    },
+    {
+      "from": 6,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.09736724197864532
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.10359811782836914
+    },
+    {
+      "from": 6,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.1005413681268692
+    },
+    {
+      "from": 6,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.12948495149612427
+    },
+    {
+      "from": 6,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.2434477061033249
+    },
+    {
+      "from": 6,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.2519476115703583
+    },
+    {
+      "from": 6,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.22736182808876038
+    },
+    {
+      "from": 6,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.29221075773239136
+    },
+    {
+      "from": 6,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.14193035662174225
+    },
+    {
+      "from": 6,
+      "to": 15,
+      "relation": "contradicts",
+      "score": -0.024737823754549026
+    },
+    {
+      "from": 6,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.1546708047389984
+    },
+    {
+      "from": 6,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.09172357618808746
+    },
+    {
+      "from": 6,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.07747109234333038
+    },
+    {
+      "from": 6,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.1269952952861786
+    },
+    {
+      "from": 6,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.18092377483844757
+    },
+    {
+      "from": 6,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.16439634561538696
+    },
+    {
+      "from": 6,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.23741163313388824
+    },
+    {
+      "from": 6,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.04660283774137497
+    },
+    {
+      "from": 6,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.12390561401844025
+    },
+    {
+      "from": 6,
+      "to": 25,
+      "relation": "contradicts",
+      "score": -0.05984930694103241
+    },
+    {
+      "from": 6,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.10946017503738403
+    },
+    {
+      "from": 6,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.11798402667045593
+    },
+    {
+      "from": 6,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.0626010000705719
+    },
+    {
+      "from": 6,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.12062191218137741
+    },
+    {
+      "from": 7,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.21579259634017944
+    },
+    {
+      "from": 7,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.3910946249961853
+    },
+    {
+      "from": 7,
+      "to": 2,
+      "relation": "adds_context",
+      "score": 0.47813692688941956
+    },
+    {
+      "from": 7,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.23672255873680115
+    },
+    {
+      "from": 7,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.35063815116882324
+    },
+    {
+      "from": 7,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.0873100757598877
+    },
+    {
+      "from": 7,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.10359811782836914
+    },
+    {
+      "from": 7,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.3018285632133484
+    },
+    {
+      "from": 7,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.2184741497039795
+    },
+    {
+      "from": 7,
+      "to": 10,
+      "relation": "adds_context",
+      "score": 0.48934805393218994
+    },
+    {
+      "from": 7,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.04053404927253723
+    },
+    {
+      "from": 7,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.4064452052116394
+    },
+    {
+      "from": 7,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.44818881154060364
+    },
+    {
+      "from": 7,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.40481632947921753
+    },
+    {
+      "from": 7,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.10412855446338654
+    },
+    {
+      "from": 7,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.08667932450771332
+    },
+    {
+      "from": 7,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.2553005814552307
+    },
+    {
+      "from": 7,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.26506704092025757
+    },
+    {
+      "from": 7,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.28991881012916565
+    },
+    {
+      "from": 7,
+      "to": 20,
+      "relation": "adds_context",
+      "score": 0.5895493626594543
+    },
+    {
+      "from": 7,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.3894123136997223
+    },
+    {
+      "from": 7,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.1158573254942894
+    },
+    {
+      "from": 7,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.053147852420806885
+    },
+    {
+      "from": 7,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.05398794636130333
+    },
+    {
+      "from": 7,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.013903133571147919
+    },
+    {
+      "from": 7,
+      "to": 26,
+      "relation": "contradicts",
+      "score": -0.035251859575510025
+    },
+    {
+      "from": 7,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.21695289015769958
+    },
+    {
+      "from": 7,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.3737957775592804
+    },
+    {
+      "from": 7,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.13316018879413605
+    },
+    {
+      "from": 8,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.3666155934333801
+    },
+    {
+      "from": 8,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.24251039326190948
+    },
+    {
+      "from": 8,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.35131552815437317
+    },
+    {
+      "from": 8,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.30169618129730225
+    },
+    {
+      "from": 8,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.3026113510131836
+    },
+    {
+      "from": 8,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.1968449056148529
+    },
+    {
+      "from": 8,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.1005413681268692
+    },
+    {
+      "from": 8,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.3018285632133484
+    },
+    {
+      "from": 8,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.2948034703731537
+    },
+    {
+      "from": 8,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.2655774652957916
+    },
+    {
+      "from": 8,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.04067784547805786
+    },
+    {
+      "from": 8,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.33676156401634216
+    },
+    {
+      "from": 8,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.31332433223724365
+    },
+    {
+      "from": 8,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.08938376605510712
+    },
+    {
+      "from": 8,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.30205222964286804
+    },
+    {
+      "from": 8,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.052490510046482086
+    },
+    {
+      "from": 8,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.1867317110300064
+    },
+    {
+      "from": 8,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.2924654185771942
+    },
+    {
+      "from": 8,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.4352293908596039
+    },
+    {
+      "from": 8,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.2664581835269928
+    },
+    {
+      "from": 8,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.3331586718559265
+    },
+    {
+      "from": 8,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.2998776435852051
+    },
+    {
+      "from": 8,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.1932787001132965
+    },
+    {
+      "from": 8,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.23461513221263885
+    },
+    {
+      "from": 8,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.2600071132183075
+    },
+    {
+      "from": 8,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.09568875283002853
+    },
+    {
+      "from": 8,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.21060587465763092
+    },
+    {
+      "from": 8,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.3236525356769562
+    },
+    {
+      "from": 8,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.4090516269207001
+    },
+    {
+      "from": 9,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.2289460152387619
+    },
+    {
+      "from": 9,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.236190527677536
+    },
+    {
+      "from": 9,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.3364652395248413
+    },
+    {
+      "from": 9,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.4287905991077423
+    },
+    {
+      "from": 9,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.28338730335235596
+    },
+    {
+      "from": 9,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.38741612434387207
+    },
+    {
+      "from": 9,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.12948495149612427
+    },
+    {
+      "from": 9,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.2184741497039795
+    },
+    {
+      "from": 9,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.2948034703731537
+    },
+    {
+      "from": 9,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.22483707964420319
+    },
+    {
+      "from": 9,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.0026131768245249987
+    },
+    {
+      "from": 9,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.22632144391536713
+    },
+    {
+      "from": 9,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.2566973865032196
+    },
+    {
+      "from": 9,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.14291512966156006
+    },
+    {
+      "from": 9,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.2374463826417923
+    },
+    {
+      "from": 9,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.2696777880191803
+    },
+    {
+      "from": 9,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.42779526114463806
+    },
+    {
+      "from": 9,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.43127742409706116
+    },
+    {
+      "from": 9,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.3034741282463074
+    },
+    {
+      "from": 9,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.27229610085487366
+    },
+    {
+      "from": 9,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.2223200798034668
+    },
+    {
+      "from": 9,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.192476287484169
+    },
+    {
+      "from": 9,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.21996468305587769
+    },
+    {
+      "from": 9,
+      "to": 24,
+      "relation": "adds_context",
+      "score": 0.5376632213592529
+    },
+    {
+      "from": 9,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.03800130635499954
+    },
+    {
+      "from": 9,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.30658408999443054
+    },
+    {
+      "from": 9,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.39149656891822815
+    },
+    {
+      "from": 9,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.20440581440925598
+    },
+    {
+      "from": 9,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.317446231842041
+    },
+    {
+      "from": 10,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.1551133245229721
+    },
+    {
+      "from": 10,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.4461296498775482
+    },
+    {
+      "from": 10,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.3521639406681061
+    },
+    {
+      "from": 10,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.28406453132629395
+    },
+    {
+      "from": 10,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.23003380000591278
+    },
+    {
+      "from": 10,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.12591396272182465
+    },
+    {
+      "from": 10,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.2434477061033249
+    },
+    {
+      "from": 10,
+      "to": 7,
+      "relation": "adds_context",
+      "score": 0.48934805393218994
+    },
+    {
+      "from": 10,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.2655774652957916
+    },
+    {
+      "from": 10,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.22483707964420319
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.27607759833335876
+    },
+    {
+      "from": 10,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.39162132143974304
+    },
+    {
+      "from": 10,
+      "to": 13,
+      "relation": "adds_context",
+      "score": 0.4670242965221405
+    },
+    {
+      "from": 10,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.2598130404949188
+    },
+    {
+      "from": 10,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.02681034803390503
+    },
+    {
+      "from": 10,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.04953019693493843
+    },
+    {
+      "from": 10,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.25259965658187866
+    },
+    {
+      "from": 10,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.2626960575580597
+    },
+    {
+      "from": 10,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.3298925459384918
+    },
+    {
+      "from": 10,
+      "to": 20,
+      "relation": "adds_context",
+      "score": 0.48554691672325134
+    },
+    {
+      "from": 10,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.3475489020347595
+    },
+    {
+      "from": 10,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.024910943582654
+    },
+    {
+      "from": 10,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.10465702414512634
+    },
+    {
+      "from": 10,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.13230672478675842
+    },
+    {
+      "from": 10,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.041948020458221436
+    },
+    {
+      "from": 10,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.16941580176353455
+    },
+    {
+      "from": 10,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.19759370386600494
+    },
+    {
+      "from": 10,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.2579539120197296
+    },
+    {
+      "from": 10,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.1433010697364807
+    },
+    {
+      "from": 11,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.041398704051971436
+    },
+    {
+      "from": 11,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.302213579416275
+    },
+    {
+      "from": 11,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.17359386384487152
+    },
+    {
+      "from": 11,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.11194965988397598
+    },
+    {
+      "from": 11,
+      "to": 4,
+      "relation": "contradicts",
+      "score": -0.0011118734255433083
+    },
+    {
+      "from": 11,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.11391933262348175
+    },
+    {
+      "from": 11,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.2519476115703583
+    },
+    {
+      "from": 11,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.04053404927253723
+    },
+    {
+      "from": 11,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.04067784547805786
+    },
+    {
+      "from": 11,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.0026131768245249987
+    },
+    {
+      "from": 11,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.27607759833335876
+    },
+    {
+      "from": 11,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.15382440388202667
+    },
+    {
+      "from": 11,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.17266497015953064
+    },
+    {
+      "from": 11,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.06455782800912857
+    },
+    {
+      "from": 11,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.023945020511746407
+    },
+    {
+      "from": 11,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.09351049363613129
+    },
+    {
+      "from": 11,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.16091451048851013
+    },
+    {
+      "from": 11,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.07662970572710037
+    },
+    {
+      "from": 11,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.2003907859325409
+    },
+    {
+      "from": 11,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.15038296580314636
+    },
+    {
+      "from": 11,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.08273769915103912
+    },
+    {
+      "from": 11,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.0903656855225563
+    },
+    {
+      "from": 11,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.1144123524427414
+    },
+    {
+      "from": 11,
+      "to": 24,
+      "relation": "contradicts",
+      "score": -0.015471544116735458
+    },
+    {
+      "from": 11,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.08642494678497314
+    },
+    {
+      "from": 11,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.0762394517660141
+    },
+    {
+      "from": 11,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.08360874652862549
+    },
+    {
+      "from": 11,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.06059098616242409
+    },
+    {
+      "from": 11,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.11784563213586807
+    },
+    {
+      "from": 12,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.22418588399887085
+    },
+    {
+      "from": 12,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.43794652819633484
+    },
+    {
+      "from": 12,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.33942171931266785
+    },
+    {
+      "from": 12,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.2960500717163086
+    },
+    {
+      "from": 12,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.15895378589630127
+    },
+    {
+      "from": 12,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.05636089667677879
+    },
+    {
+      "from": 12,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.22736182808876038
+    },
+    {
+      "from": 12,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.4064452052116394
+    },
+    {
+      "from": 12,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.33676156401634216
+    },
+    {
+      "from": 12,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.22632144391536713
+    },
+    {
+      "from": 12,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.39162132143974304
+    },
+    {
+      "from": 12,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.15382440388202667
+    },
+    {
+      "from": 12,
+      "to": 13,
+      "relation": "builds_on",
+      "score": 0.7763179540634155
+    },
+    {
+      "from": 12,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.2959913909435272
+    },
+    {
+      "from": 12,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.170464888215065
+    },
+    {
+      "from": 12,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.007635886315256357
+    },
+    {
+      "from": 12,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.281911700963974
+    },
+    {
+      "from": 12,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.23907266557216644
+    },
+    {
+      "from": 12,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.2414223849773407
+    },
+    {
+      "from": 12,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.32843664288520813
+    },
+    {
+      "from": 12,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.30780431628227234
+    },
+    {
+      "from": 12,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.21849213540554047
+    },
+    {
+      "from": 12,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.12247850000858307
+    },
+    {
+      "from": 12,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.18394587934017181
+    },
+    {
+      "from": 12,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.0067049781791865826
+    },
+    {
+      "from": 12,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.015267251059412956
+    },
+    {
+      "from": 12,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.14974544942378998
+    },
+    {
+      "from": 12,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.3336133062839508
+    },
+    {
+      "from": 12,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.20941153168678284
+    },
+    {
+      "from": 13,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.2429656833410263
+    },
+    {
+      "from": 13,
+      "to": 1,
+      "relation": "adds_context",
+      "score": 0.48826977610588074
+    },
+    {
+      "from": 13,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.39967218041419983
+    },
+    {
+      "from": 13,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.2141943871974945
+    },
+    {
+      "from": 13,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.2312563955783844
+    },
+    {
+      "from": 13,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.08158751577138901
+    },
+    {
+      "from": 13,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.29221075773239136
+    },
+    {
+      "from": 13,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.44818881154060364
+    },
+    {
+      "from": 13,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.31332433223724365
+    },
+    {
+      "from": 13,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.2566973865032196
+    },
+    {
+      "from": 13,
+      "to": 10,
+      "relation": "adds_context",
+      "score": 0.4670242965221405
+    },
+    {
+      "from": 13,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.17266497015953064
+    },
+    {
+      "from": 13,
+      "to": 12,
+      "relation": "builds_on",
+      "score": 0.7763179540634155
+    },
+    {
+      "from": 13,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.24626286327838898
+    },
+    {
+      "from": 13,
+      "to": 15,
+      "relation": "contradicts",
+      "score": -0.020438015460968018
+    },
+    {
+      "from": 13,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.042207490652799606
+    },
+    {
+      "from": 13,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.2795495092868805
+    },
+    {
+      "from": 13,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.2137758731842041
+    },
+    {
+      "from": 13,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.2749205231666565
+    },
+    {
+      "from": 13,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.41365984082221985
+    },
+    {
+      "from": 13,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.3293759226799011
+    },
+    {
+      "from": 13,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.17373614013195038
+    },
+    {
+      "from": 13,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.1382232904434204
+    },
+    {
+      "from": 13,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.09899751096963882
+    },
+    {
+      "from": 13,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.05866199731826782
+    },
+    {
+      "from": 13,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.10211733728647232
+    },
+    {
+      "from": 13,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.19371090829372406
+    },
+    {
+      "from": 13,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.3284561038017273
+    },
+    {
+      "from": 13,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.12932436168193817
+    },
+    {
+      "from": 14,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.1832800656557083
+    },
+    {
+      "from": 14,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.33399519324302673
+    },
+    {
+      "from": 14,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.27130571007728577
+    },
+    {
+      "from": 14,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.2593912184238434
+    },
+    {
+      "from": 14,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.18899264931678772
+    },
+    {
+      "from": 14,
+      "to": 5,
+      "relation": "contradicts",
+      "score": -0.006710318382829428
+    },
+    {
+      "from": 14,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.14193035662174225
+    },
+    {
+      "from": 14,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.40481632947921753
+    },
+    {
+      "from": 14,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.08938376605510712
+    },
+    {
+      "from": 14,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.14291512966156006
+    },
+    {
+      "from": 14,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.2598130404949188
+    },
+    {
+      "from": 14,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.06455782800912857
+    },
+    {
+      "from": 14,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.2959913909435272
+    },
+    {
+      "from": 14,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.24626286327838898
+    },
+    {
+      "from": 14,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.11912568658590317
+    },
+    {
+      "from": 14,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.04217405989766121
+    },
+    {
+      "from": 14,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.20523256063461304
+    },
+    {
+      "from": 14,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.23789718747138977
+    },
+    {
+      "from": 14,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.14984990656375885
+    },
+    {
+      "from": 14,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.2906206250190735
+    },
+    {
+      "from": 14,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.21026702225208282
+    },
+    {
+      "from": 14,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.12490587681531906
+    },
+    {
+      "from": 14,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.051057904958724976
+    },
+    {
+      "from": 14,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.10175095498561859
+    },
+    {
+      "from": 14,
+      "to": 25,
+      "relation": "contradicts",
+      "score": -0.09182582795619965
+    },
+    {
+      "from": 14,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.06724999845027924
+    },
+    {
+      "from": 14,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.07506825774908066
+    },
+    {
+      "from": 14,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.28405439853668213
+    },
+    {
+      "from": 14,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.046223849058151245
+    },
+    {
+      "from": 15,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.25070449709892273
+    },
+    {
+      "from": 15,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.08552027493715286
+    },
+    {
+      "from": 15,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.17563411593437195
+    },
+    {
+      "from": 15,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.2886381447315216
+    },
+    {
+      "from": 15,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.016045590862631798
+    },
+    {
+      "from": 15,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.39265176653862
+    },
+    {
+      "from": 15,
+      "to": 6,
+      "relation": "contradicts",
+      "score": -0.024737823754549026
+    },
+    {
+      "from": 15,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.10412855446338654
+    },
+    {
+      "from": 15,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.30205222964286804
+    },
+    {
+      "from": 15,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.2374463826417923
+    },
+    {
+      "from": 15,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.02681034803390503
+    },
+    {
+      "from": 15,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.023945020511746407
+    },
+    {
+      "from": 15,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.170464888215065
+    },
+    {
+      "from": 15,
+      "to": 13,
+      "relation": "contradicts",
+      "score": -0.020438015460968018
+    },
+    {
+      "from": 15,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.11912568658590317
+    },
+    {
+      "from": 15,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.32016825675964355
+    },
+    {
+      "from": 15,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.08736969530582428
+    },
+    {
+      "from": 15,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.26599669456481934
+    },
+    {
+      "from": 15,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.36402738094329834
+    },
+    {
+      "from": 15,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.0776061937212944
+    },
+    {
+      "from": 15,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.06099620461463928
+    },
+    {
+      "from": 15,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.3365829288959503
+    },
+    {
+      "from": 15,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.28034141659736633
+    },
+    {
+      "from": 15,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.2208307385444641
+    },
+    {
+      "from": 15,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.19865724444389343
+    },
+    {
+      "from": 15,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.0634685829281807
+    },
+    {
+      "from": 15,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.05785324424505234
+    },
+    {
+      "from": 15,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.1787937879562378
+    },
+    {
+      "from": 15,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.22548523545265198
+    },
+    {
+      "from": 16,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.24158421158790588
+    },
+    {
+      "from": 16,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.04195506125688553
+    },
+    {
+      "from": 16,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.107924684882164
+    },
+    {
+      "from": 16,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.23483730852603912
+    },
+    {
+      "from": 16,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.22045060992240906
+    },
+    {
+      "from": 16,
+      "to": 5,
+      "relation": "adds_context",
+      "score": 0.5469669103622437
+    },
+    {
+      "from": 16,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.1546708047389984
+    },
+    {
+      "from": 16,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.08667932450771332
+    },
+    {
+      "from": 16,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.052490510046482086
+    },
+    {
+      "from": 16,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.2696777880191803
+    },
+    {
+      "from": 16,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.04953019693493843
+    },
+    {
+      "from": 16,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.09351049363613129
+    },
+    {
+      "from": 16,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.007635886315256357
+    },
+    {
+      "from": 16,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.042207490652799606
+    },
+    {
+      "from": 16,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.04217405989766121
+    },
+    {
+      "from": 16,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.32016825675964355
+    },
+    {
+      "from": 16,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.09019835293292999
+    },
+    {
+      "from": 16,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.1926485002040863
+    },
+    {
+      "from": 16,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.3878001570701599
+    },
+    {
+      "from": 16,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.037846583873033524
+    },
+    {
+      "from": 16,
+      "to": 21,
+      "relation": "contradicts",
+      "score": -0.0316811166703701
+    },
+    {
+      "from": 16,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.1596013903617859
+    },
+    {
+      "from": 16,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.39887499809265137
+    },
+    {
+      "from": 16,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.35218244791030884
+    },
+    {
+      "from": 16,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.13163064420223236
+    },
+    {
+      "from": 16,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.20419199764728546
+    },
+    {
+      "from": 16,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.18497484922409058
+    },
+    {
+      "from": 16,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.06418287754058838
+    },
+    {
+      "from": 16,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.11057180166244507
+    },
+    {
+      "from": 17,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.23242567479610443
+    },
+    {
+      "from": 17,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.2610938251018524
+    },
+    {
+      "from": 17,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.3951217830181122
+    },
+    {
+      "from": 17,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.38974180817604065
+    },
+    {
+      "from": 17,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.26454445719718933
+    },
+    {
+      "from": 17,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.16411349177360535
+    },
+    {
+      "from": 17,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.09172357618808746
+    },
+    {
+      "from": 17,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.2553005814552307
+    },
+    {
+      "from": 17,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.1867317110300064
+    },
+    {
+      "from": 17,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.42779526114463806
+    },
+    {
+      "from": 17,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.25259965658187866
+    },
+    {
+      "from": 17,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.16091451048851013
+    },
+    {
+      "from": 17,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.281911700963974
+    },
+    {
+      "from": 17,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.2795495092868805
+    },
+    {
+      "from": 17,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.20523256063461304
+    },
+    {
+      "from": 17,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.08736969530582428
+    },
+    {
+      "from": 17,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.09019835293292999
+    },
+    {
+      "from": 17,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.370240181684494
+    },
+    {
+      "from": 17,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.20805732905864716
+    },
+    {
+      "from": 17,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.23364338278770447
+    },
+    {
+      "from": 17,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.324424684047699
+    },
+    {
+      "from": 17,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.15480029582977295
+    },
+    {
+      "from": 17,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.11865980923175812
+    },
+    {
+      "from": 17,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.30526474118232727
+    },
+    {
+      "from": 17,
+      "to": 25,
+      "relation": "contradicts",
+      "score": -0.011626624502241611
+    },
+    {
+      "from": 17,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.25811994075775146
+    },
+    {
+      "from": 17,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.3259044587612152
+    },
+    {
+      "from": 17,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.3210517466068268
+    },
+    {
+      "from": 17,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.2895539402961731
+    },
+    {
+      "from": 18,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.19849583506584167
+    },
+    {
+      "from": 18,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.224699005484581
+    },
+    {
+      "from": 18,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.29099130630493164
+    },
+    {
+      "from": 18,
+      "to": 3,
+      "relation": "adds_context",
+      "score": 0.5154985785484314
+    },
+    {
+      "from": 18,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.2633528709411621
+    },
+    {
+      "from": 18,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.32891660928726196
+    },
+    {
+      "from": 18,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.07747109234333038
+    },
+    {
+      "from": 18,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.26506704092025757
+    },
+    {
+      "from": 18,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.2924654185771942
+    },
+    {
+      "from": 18,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.43127742409706116
+    },
+    {
+      "from": 18,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.2626960575580597
+    },
+    {
+      "from": 18,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.07662970572710037
+    },
+    {
+      "from": 18,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.23907266557216644
+    },
+    {
+      "from": 18,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.2137758731842041
+    },
+    {
+      "from": 18,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.23789718747138977
+    },
+    {
+      "from": 18,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.26599669456481934
+    },
+    {
+      "from": 18,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.1926485002040863
+    },
+    {
+      "from": 18,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.370240181684494
+    },
+    {
+      "from": 18,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.4082750976085663
+    },
+    {
+      "from": 18,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.3059421181678772
+    },
+    {
+      "from": 18,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.21078366041183472
+    },
+    {
+      "from": 18,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.23359449207782745
+    },
+    {
+      "from": 18,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.3094843029975891
+    },
+    {
+      "from": 18,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.27622294425964355
+    },
+    {
+      "from": 18,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.13297556340694427
+    },
+    {
+      "from": 18,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.23248924314975739
+    },
+    {
+      "from": 18,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.1825111359357834
+    },
+    {
+      "from": 18,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.18359121680259705
+    },
+    {
+      "from": 18,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.20551273226737976
+    },
+    {
+      "from": 19,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.3030562996864319
+    },
+    {
+      "from": 19,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.290968120098114
+    },
+    {
+      "from": 19,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.4148431718349457
+    },
+    {
+      "from": 19,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.44451242685317993
+    },
+    {
+      "from": 19,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.28772038221359253
+    },
+    {
+      "from": 19,
+      "to": 5,
+      "relation": "adds_context",
+      "score": 0.5936668515205383
+    },
+    {
+      "from": 19,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.1269952952861786
+    },
+    {
+      "from": 19,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.28991881012916565
+    },
+    {
+      "from": 19,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.4352293908596039
+    },
+    {
+      "from": 19,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.3034741282463074
+    },
+    {
+      "from": 19,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.3298925459384918
+    },
+    {
+      "from": 19,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.2003907859325409
+    },
+    {
+      "from": 19,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.2414223849773407
+    },
+    {
+      "from": 19,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.2749205231666565
+    },
+    {
+      "from": 19,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.14984990656375885
+    },
+    {
+      "from": 19,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.36402738094329834
+    },
+    {
+      "from": 19,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.3878001570701599
+    },
+    {
+      "from": 19,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.20805732905864716
+    },
+    {
+      "from": 19,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.4082750976085663
+    },
+    {
+      "from": 19,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.3719177544116974
+    },
+    {
+      "from": 19,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.170212984085083
+    },
+    {
+      "from": 19,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.29470890760421753
+    },
+    {
+      "from": 19,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.4460226893424988
+    },
+    {
+      "from": 19,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.35491231083869934
+    },
+    {
+      "from": 19,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.2613677680492401
+    },
+    {
+      "from": 19,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.1345478892326355
+    },
+    {
+      "from": 19,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.23563148081302643
+    },
+    {
+      "from": 19,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.4303191304206848
+    },
+    {
+      "from": 19,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.3411645293235779
+    },
+    {
+      "from": 20,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.21460434794425964
+    },
+    {
+      "from": 20,
+      "to": 1,
+      "relation": "adds_context",
+      "score": 0.5939129590988159
+    },
+    {
+      "from": 20,
+      "to": 2,
+      "relation": "adds_context",
+      "score": 0.48474952578544617
+    },
+    {
+      "from": 20,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.3053739666938782
+    },
+    {
+      "from": 20,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.3355831503868103
+    },
+    {
+      "from": 20,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.14663589000701904
+    },
+    {
+      "from": 20,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.18092377483844757
+    },
+    {
+      "from": 20,
+      "to": 7,
+      "relation": "adds_context",
+      "score": 0.5895493626594543
+    },
+    {
+      "from": 20,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.2664581835269928
+    },
+    {
+      "from": 20,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.27229610085487366
+    },
+    {
+      "from": 20,
+      "to": 10,
+      "relation": "adds_context",
+      "score": 0.48554691672325134
+    },
+    {
+      "from": 20,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.15038296580314636
+    },
+    {
+      "from": 20,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.32843664288520813
+    },
+    {
+      "from": 20,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.41365984082221985
+    },
+    {
+      "from": 20,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.2906206250190735
+    },
+    {
+      "from": 20,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.0776061937212944
+    },
+    {
+      "from": 20,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.037846583873033524
+    },
+    {
+      "from": 20,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.23364338278770447
+    },
+    {
+      "from": 20,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.3059421181678772
+    },
+    {
+      "from": 20,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.3719177544116974
+    },
+    {
+      "from": 20,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.33574867248535156
+    },
+    {
+      "from": 20,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.08493873476982117
+    },
+    {
+      "from": 20,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.1179410070180893
+    },
+    {
+      "from": 20,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.08995619416236877
+    },
+    {
+      "from": 20,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.08955811709165573
+    },
+    {
+      "from": 20,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.05669054761528969
+    },
+    {
+      "from": 20,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.20279011130332947
+    },
+    {
+      "from": 20,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.3885039687156677
+    },
+    {
+      "from": 20,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.15350241959095
+    },
+    {
+      "from": 21,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.1956690549850464
+    },
+    {
+      "from": 21,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.29237568378448486
+    },
+    {
+      "from": 21,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.4285368025302887
+    },
+    {
+      "from": 21,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.1862381398677826
+    },
+    {
+      "from": 21,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.30924192070961
+    },
+    {
+      "from": 21,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.007170582190155983
+    },
+    {
+      "from": 21,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.16439634561538696
+    },
+    {
+      "from": 21,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.3894123136997223
+    },
+    {
+      "from": 21,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.3331586718559265
+    },
+    {
+      "from": 21,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.2223200798034668
+    },
+    {
+      "from": 21,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.3475489020347595
+    },
+    {
+      "from": 21,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.08273769915103912
+    },
+    {
+      "from": 21,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.30780431628227234
+    },
+    {
+      "from": 21,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.3293759226799011
+    },
+    {
+      "from": 21,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.21026702225208282
+    },
+    {
+      "from": 21,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.06099620461463928
+    },
+    {
+      "from": 21,
+      "to": 16,
+      "relation": "contradicts",
+      "score": -0.0316811166703701
+    },
+    {
+      "from": 21,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.324424684047699
+    },
+    {
+      "from": 21,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.21078366041183472
+    },
+    {
+      "from": 21,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.170212984085083
+    },
+    {
+      "from": 21,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.33574867248535156
+    },
+    {
+      "from": 21,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.09966567903757095
+    },
+    {
+      "from": 21,
+      "to": 23,
+      "relation": "contradicts",
+      "score": -0.053938865661621094
+    },
+    {
+      "from": 21,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.16384181380271912
+    },
+    {
+      "from": 21,
+      "to": 25,
+      "relation": "contradicts",
+      "score": -0.008525303564965725
+    },
+    {
+      "from": 21,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.020561909303069115
+    },
+    {
+      "from": 21,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.2359762340784073
+    },
+    {
+      "from": 21,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.34431788325309753
+    },
+    {
+      "from": 21,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.13335014879703522
+    },
+    {
+      "from": 22,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.42279574275016785
+    },
+    {
+      "from": 22,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.1369255781173706
+    },
+    {
+      "from": 22,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.20393244922161102
+    },
+    {
+      "from": 22,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.29736000299453735
+    },
+    {
+      "from": 22,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.16510020196437836
+    },
+    {
+      "from": 22,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.3636261820793152
+    },
+    {
+      "from": 22,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.23741163313388824
+    },
+    {
+      "from": 22,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.1158573254942894
+    },
+    {
+      "from": 22,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.2998776435852051
+    },
+    {
+      "from": 22,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.192476287484169
+    },
+    {
+      "from": 22,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.024910943582654
+    },
+    {
+      "from": 22,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.0903656855225563
+    },
+    {
+      "from": 22,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.21849213540554047
+    },
+    {
+      "from": 22,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.17373614013195038
+    },
+    {
+      "from": 22,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.12490587681531906
+    },
+    {
+      "from": 22,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.3365829288959503
+    },
+    {
+      "from": 22,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.1596013903617859
+    },
+    {
+      "from": 22,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.15480029582977295
+    },
+    {
+      "from": 22,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.23359449207782745
+    },
+    {
+      "from": 22,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.29470890760421753
+    },
+    {
+      "from": 22,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.08493873476982117
+    },
+    {
+      "from": 22,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.09966567903757095
+    },
+    {
+      "from": 22,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.28549161553382874
+    },
+    {
+      "from": 22,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.1388694941997528
+    },
+    {
+      "from": 22,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.07719957083463669
+    },
+    {
+      "from": 22,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.2020702064037323
+    },
+    {
+      "from": 22,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.02552063949406147
+    },
+    {
+      "from": 22,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.20895491540431976
+    },
+    {
+      "from": 22,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.2532579302787781
+    },
+    {
+      "from": 23,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.1804695725440979
+    },
+    {
+      "from": 23,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.1268996149301529
+    },
+    {
+      "from": 23,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.07723567634820938
+    },
+    {
+      "from": 23,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.3129591941833496
+    },
+    {
+      "from": 23,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.2165410816669464
+    },
+    {
+      "from": 23,
+      "to": 5,
+      "relation": "builds_on",
+      "score": 0.6838598251342773
+    },
+    {
+      "from": 23,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.04660283774137497
+    },
+    {
+      "from": 23,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.053147852420806885
+    },
+    {
+      "from": 23,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.1932787001132965
+    },
+    {
+      "from": 23,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.21996468305587769
+    },
+    {
+      "from": 23,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.10465702414512634
+    },
+    {
+      "from": 23,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.1144123524427414
+    },
+    {
+      "from": 23,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.12247850000858307
+    },
+    {
+      "from": 23,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.1382232904434204
+    },
+    {
+      "from": 23,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.051057904958724976
+    },
+    {
+      "from": 23,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.28034141659736633
+    },
+    {
+      "from": 23,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.39887499809265137
+    },
+    {
+      "from": 23,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.11865980923175812
+    },
+    {
+      "from": 23,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.3094843029975891
+    },
+    {
+      "from": 23,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.4460226893424988
+    },
+    {
+      "from": 23,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.1179410070180893
+    },
+    {
+      "from": 23,
+      "to": 21,
+      "relation": "contradicts",
+      "score": -0.053938865661621094
+    },
+    {
+      "from": 23,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.28549161553382874
+    },
+    {
+      "from": 23,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.2862091362476349
+    },
+    {
+      "from": 23,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.11425884813070297
+    },
+    {
+      "from": 23,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.1162695363163948
+    },
+    {
+      "from": 23,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.10538536310195923
+    },
+    {
+      "from": 23,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.08332694321870804
+    },
+    {
+      "from": 23,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.1507369726896286
+    },
+    {
+      "from": 24,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.2107551097869873
+    },
+    {
+      "from": 24,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.14335982501506805
+    },
+    {
+      "from": 24,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.17714861035346985
+    },
+    {
+      "from": 24,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.42711904644966125
+    },
+    {
+      "from": 24,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.14844411611557007
+    },
+    {
+      "from": 24,
+      "to": 5,
+      "relation": "adds_context",
+      "score": 0.45239365100860596
+    },
+    {
+      "from": 24,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.12390561401844025
+    },
+    {
+      "from": 24,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.05398794636130333
+    },
+    {
+      "from": 24,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.23461513221263885
+    },
+    {
+      "from": 24,
+      "to": 9,
+      "relation": "adds_context",
+      "score": 0.5376632213592529
+    },
+    {
+      "from": 24,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.13230672478675842
+    },
+    {
+      "from": 24,
+      "to": 11,
+      "relation": "contradicts",
+      "score": -0.015471544116735458
+    },
+    {
+      "from": 24,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.18394587934017181
+    },
+    {
+      "from": 24,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.09899751096963882
+    },
+    {
+      "from": 24,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.10175095498561859
+    },
+    {
+      "from": 24,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.2208307385444641
+    },
+    {
+      "from": 24,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.35218244791030884
+    },
+    {
+      "from": 24,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.30526474118232727
+    },
+    {
+      "from": 24,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.27622294425964355
+    },
+    {
+      "from": 24,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.35491231083869934
+    },
+    {
+      "from": 24,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.08995619416236877
+    },
+    {
+      "from": 24,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.16384181380271912
+    },
+    {
+      "from": 24,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.1388694941997528
+    },
+    {
+      "from": 24,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.2862091362476349
+    },
+    {
+      "from": 24,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.036769118160009384
+    },
+    {
+      "from": 24,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.1881682276725769
+    },
+    {
+      "from": 24,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.3482358753681183
+    },
+    {
+      "from": 24,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.13281652331352234
+    },
+    {
+      "from": 24,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.27801239490509033
+    },
+    {
+      "from": 25,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.09305577725172043
+    },
+    {
+      "from": 25,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.0769658163189888
+    },
+    {
+      "from": 25,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.0748884528875351
+    },
+    {
+      "from": 25,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.2195344716310501
+    },
+    {
+      "from": 25,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.08163200318813324
+    },
+    {
+      "from": 25,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.21007390320301056
+    },
+    {
+      "from": 25,
+      "to": 6,
+      "relation": "contradicts",
+      "score": -0.05984930694103241
+    },
+    {
+      "from": 25,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.013903133571147919
+    },
+    {
+      "from": 25,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.2600071132183075
+    },
+    {
+      "from": 25,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.03800130635499954
+    },
+    {
+      "from": 25,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.041948020458221436
+    },
+    {
+      "from": 25,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.08642494678497314
+    },
+    {
+      "from": 25,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.0067049781791865826
+    },
+    {
+      "from": 25,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.05866199731826782
+    },
+    {
+      "from": 25,
+      "to": 14,
+      "relation": "contradicts",
+      "score": -0.09182582795619965
+    },
+    {
+      "from": 25,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.19865724444389343
+    },
+    {
+      "from": 25,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.13163064420223236
+    },
+    {
+      "from": 25,
+      "to": 17,
+      "relation": "contradicts",
+      "score": -0.011626624502241611
+    },
+    {
+      "from": 25,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.13297556340694427
+    },
+    {
+      "from": 25,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.2613677680492401
+    },
+    {
+      "from": 25,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.08955811709165573
+    },
+    {
+      "from": 25,
+      "to": 21,
+      "relation": "contradicts",
+      "score": -0.008525303564965725
+    },
+    {
+      "from": 25,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.07719957083463669
+    },
+    {
+      "from": 25,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.11425884813070297
+    },
+    {
+      "from": 25,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.036769118160009384
+    },
+    {
+      "from": 25,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.05847207456827164
+    },
+    {
+      "from": 25,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.05709772929549217
+    },
+    {
+      "from": 25,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.050190817564725876
+    },
+    {
+      "from": 25,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.1743333637714386
+    },
+    {
+      "from": 26,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.17915752530097961
+    },
+    {
+      "from": 26,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.10089307278394699
+    },
+    {
+      "from": 26,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.08623897284269333
+    },
+    {
+      "from": 26,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.3008759021759033
+    },
+    {
+      "from": 26,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.2546161413192749
+    },
+    {
+      "from": 26,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.25425225496292114
+    },
+    {
+      "from": 26,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.10946017503738403
+    },
+    {
+      "from": 26,
+      "to": 7,
+      "relation": "contradicts",
+      "score": -0.035251859575510025
+    },
+    {
+      "from": 26,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.09568875283002853
+    },
+    {
+      "from": 26,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.30658408999443054
+    },
+    {
+      "from": 26,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.16941580176353455
+    },
+    {
+      "from": 26,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.0762394517660141
+    },
+    {
+      "from": 26,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.015267251059412956
+    },
+    {
+      "from": 26,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.10211733728647232
+    },
+    {
+      "from": 26,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.06724999845027924
+    },
+    {
+      "from": 26,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.0634685829281807
+    },
+    {
+      "from": 26,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.20419199764728546
+    },
+    {
+      "from": 26,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.25811994075775146
+    },
+    {
+      "from": 26,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.23248924314975739
+    },
+    {
+      "from": 26,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.1345478892326355
+    },
+    {
+      "from": 26,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.05669054761528969
+    },
+    {
+      "from": 26,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.020561909303069115
+    },
+    {
+      "from": 26,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.2020702064037323
+    },
+    {
+      "from": 26,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.1162695363163948
+    },
+    {
+      "from": 26,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.1881682276725769
+    },
+    {
+      "from": 26,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.05847207456827164
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.08208271116018295
+    },
+    {
+      "from": 26,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.0822581872344017
+    },
+    {
+      "from": 26,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.19707924127578735
+    },
+    {
+      "from": 27,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.07361321151256561
+    },
+    {
+      "from": 27,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.2012311965227127
+    },
+    {
+      "from": 27,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.255964070558548
+    },
+    {
+      "from": 27,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.2607753872871399
+    },
+    {
+      "from": 27,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.2633163034915924
+    },
+    {
+      "from": 27,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.1288577765226364
+    },
+    {
+      "from": 27,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.11798402667045593
+    },
+    {
+      "from": 27,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.21695289015769958
+    },
+    {
+      "from": 27,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.21060587465763092
+    },
+    {
+      "from": 27,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.39149656891822815
+    },
+    {
+      "from": 27,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.19759370386600494
+    },
+    {
+      "from": 27,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.08360874652862549
+    },
+    {
+      "from": 27,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.14974544942378998
+    },
+    {
+      "from": 27,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.19371090829372406
+    },
+    {
+      "from": 27,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.07506825774908066
+    },
+    {
+      "from": 27,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.05785324424505234
+    },
+    {
+      "from": 27,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.18497484922409058
+    },
+    {
+      "from": 27,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.3259044587612152
+    },
+    {
+      "from": 27,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.1825111359357834
+    },
+    {
+      "from": 27,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.23563148081302643
+    },
+    {
+      "from": 27,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.20279011130332947
+    },
+    {
+      "from": 27,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.2359762340784073
+    },
+    {
+      "from": 27,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.02552063949406147
+    },
+    {
+      "from": 27,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.10538536310195923
+    },
+    {
+      "from": 27,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.3482358753681183
+    },
+    {
+      "from": 27,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.05709772929549217
+    },
+    {
+      "from": 27,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.08208271116018295
+    },
+    {
+      "from": 27,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.1515921950340271
+    },
+    {
+      "from": 27,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.18462485074996948
+    },
+    {
+      "from": 28,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.27737417817115784
+    },
+    {
+      "from": 28,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.411841481924057
+    },
+    {
+      "from": 28,
+      "to": 2,
+      "relation": "adds_context",
+      "score": 0.5014628171920776
+    },
+    {
+      "from": 28,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.3215858042240143
+    },
+    {
+      "from": 28,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.33066311478614807
+    },
+    {
+      "from": 28,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.102366603910923
+    },
+    {
+      "from": 28,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.0626010000705719
+    },
+    {
+      "from": 28,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.3737957775592804
+    },
+    {
+      "from": 28,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.3236525356769562
+    },
+    {
+      "from": 28,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.20440581440925598
+    },
+    {
+      "from": 28,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.2579539120197296
+    },
+    {
+      "from": 28,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.06059098616242409
+    },
+    {
+      "from": 28,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.3336133062839508
+    },
+    {
+      "from": 28,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.3284561038017273
+    },
+    {
+      "from": 28,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.28405439853668213
+    },
+    {
+      "from": 28,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.1787937879562378
+    },
+    {
+      "from": 28,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.06418287754058838
+    },
+    {
+      "from": 28,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.3210517466068268
+    },
+    {
+      "from": 28,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.18359121680259705
+    },
+    {
+      "from": 28,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.4303191304206848
+    },
+    {
+      "from": 28,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.3885039687156677
+    },
+    {
+      "from": 28,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.34431788325309753
+    },
+    {
+      "from": 28,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.20895491540431976
+    },
+    {
+      "from": 28,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.08332694321870804
+    },
+    {
+      "from": 28,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.13281652331352234
+    },
+    {
+      "from": 28,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.050190817564725876
+    },
+    {
+      "from": 28,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.0822581872344017
+    },
+    {
+      "from": 28,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.1515921950340271
+    },
+    {
+      "from": 28,
+      "to": 29,
+      "relation": "contradicts",
+      "score": 0.26765674352645874
+    },
+    {
+      "from": 29,
+      "to": 0,
+      "relation": "contradicts",
+      "score": 0.2485845535993576
+    },
+    {
+      "from": 29,
+      "to": 1,
+      "relation": "contradicts",
+      "score": 0.10407309234142303
+    },
+    {
+      "from": 29,
+      "to": 2,
+      "relation": "contradicts",
+      "score": 0.24422655999660492
+    },
+    {
+      "from": 29,
+      "to": 3,
+      "relation": "contradicts",
+      "score": 0.40979084372520447
+    },
+    {
+      "from": 29,
+      "to": 4,
+      "relation": "contradicts",
+      "score": 0.21919116377830505
+    },
+    {
+      "from": 29,
+      "to": 5,
+      "relation": "contradicts",
+      "score": 0.21401746571063995
+    },
+    {
+      "from": 29,
+      "to": 6,
+      "relation": "contradicts",
+      "score": 0.12062191218137741
+    },
+    {
+      "from": 29,
+      "to": 7,
+      "relation": "contradicts",
+      "score": 0.13316018879413605
+    },
+    {
+      "from": 29,
+      "to": 8,
+      "relation": "contradicts",
+      "score": 0.4090516269207001
+    },
+    {
+      "from": 29,
+      "to": 9,
+      "relation": "contradicts",
+      "score": 0.317446231842041
+    },
+    {
+      "from": 29,
+      "to": 10,
+      "relation": "contradicts",
+      "score": 0.1433010697364807
+    },
+    {
+      "from": 29,
+      "to": 11,
+      "relation": "contradicts",
+      "score": 0.11784563213586807
+    },
+    {
+      "from": 29,
+      "to": 12,
+      "relation": "contradicts",
+      "score": 0.20941153168678284
+    },
+    {
+      "from": 29,
+      "to": 13,
+      "relation": "contradicts",
+      "score": 0.12932436168193817
+    },
+    {
+      "from": 29,
+      "to": 14,
+      "relation": "contradicts",
+      "score": 0.046223849058151245
+    },
+    {
+      "from": 29,
+      "to": 15,
+      "relation": "contradicts",
+      "score": 0.22548523545265198
+    },
+    {
+      "from": 29,
+      "to": 16,
+      "relation": "contradicts",
+      "score": 0.11057180166244507
+    },
+    {
+      "from": 29,
+      "to": 17,
+      "relation": "contradicts",
+      "score": 0.2895539402961731
+    },
+    {
+      "from": 29,
+      "to": 18,
+      "relation": "contradicts",
+      "score": 0.20551273226737976
+    },
+    {
+      "from": 29,
+      "to": 19,
+      "relation": "contradicts",
+      "score": 0.3411645293235779
+    },
+    {
+      "from": 29,
+      "to": 20,
+      "relation": "contradicts",
+      "score": 0.15350241959095
+    },
+    {
+      "from": 29,
+      "to": 21,
+      "relation": "contradicts",
+      "score": 0.13335014879703522
+    },
+    {
+      "from": 29,
+      "to": 22,
+      "relation": "contradicts",
+      "score": 0.2532579302787781
+    },
+    {
+      "from": 29,
+      "to": 23,
+      "relation": "contradicts",
+      "score": 0.1507369726896286
+    },
+    {
+      "from": 29,
+      "to": 24,
+      "relation": "contradicts",
+      "score": 0.27801239490509033
+    },
+    {
+      "from": 29,
+      "to": 25,
+      "relation": "contradicts",
+      "score": 0.1743333637714386
+    },
+    {
+      "from": 29,
+      "to": 26,
+      "relation": "contradicts",
+      "score": 0.19707924127578735
+    },
+    {
+      "from": 29,
+      "to": 27,
+      "relation": "contradicts",
+      "score": 0.18462485074996948
+    },
+    {
+      "from": 29,
+      "to": 28,
+      "relation": "contradicts",
+      "score": 0.26765674352645874
+    }
+  ]
+}
